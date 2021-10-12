@@ -1,6 +1,6 @@
 # Lorenz-Attractor
 Simulating Lorenz Attractor Using Numerical Methods!
-Which is a non-Linear Chotic System!
+Which is a non-Linear Chaotic System!
 
 ## ***Butter Fly Effect***
 ![](images/ButterFly.PNG)
