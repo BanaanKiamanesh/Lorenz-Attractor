@@ -2,8 +2,8 @@
 Simulating Lorenz Attractor Using Numerical Methods!
 Which is a non-Linear Chotic System!
 
-> Butter Fly Effect
+## ***Butter Fly Effect***
 ![](images/ButterFly.PNG)
 
-> Lorenz Fractal
+## ***Lorenz Fractal***
 ![](images/Fractal.PNG)
